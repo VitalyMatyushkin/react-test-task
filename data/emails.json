@@ -1,0 +1,79 @@
+[
+  {
+    "id": "12340",
+    "summary": "Any text1",
+    "date": "01.08.2018",
+    "from": "test@mail.ru",
+    "status": "unsorted"
+  },
+  {
+    "id": "12341",
+    "summary": "Any text2",
+    "date": "02.08.2018",
+    "from": "test@mail.ru",
+    "status": "unsorted"
+  },
+  {
+    "id": "12342",
+    "summary": "Any text3",
+    "date": "02.08.2018",
+    "from": "test@mail.ru",
+    "status": "unsorted"
+  },
+  {
+    "id": "12343",
+    "summary": "Any text4",
+    "date": "03.08.2018",
+    "from": "test@mail.ru",
+    "status": "unsorted"
+  },
+  {
+    "id": "12344",
+    "summary": "Any text5",
+    "date": "04.08.2018",
+    "from": "test@mail.ru",
+    "status": "unsorted"
+  },
+  {
+    "id": "12345",
+    "summary": "Any text6",
+    "date": "05.08.2018",
+    "from": "test@mail.ru",
+    "status": "unsorted"
+  },
+  {
+    "id": "12346",
+    "summary": "Any text7",
+    "date": "06.08.2018",
+    "from": "test@mail.ru",
+    "status": "unsorted"
+  },
+  {
+    "id": "12347",
+    "summary": "Any text8",
+    "date": "07.08.2018",
+    "from": "test@mail.ru",
+    "status": "unsorted"
+  },
+  {
+    "id": "12348",
+    "summary": "Any text9",
+    "date": "08.08.2018",
+    "from": "test@mail.ru",
+    "status": "support"
+  },
+  {
+    "id": "12349",
+    "summary": "Any text10",
+    "date": "09.08.2018",
+    "from": "test@mail.ru",
+    "status": "marketing"
+  },
+  {
+    "id": "12350",
+    "summary": "Any text11",
+    "date": "10.08.2018",
+    "from": "test@mail.ru",
+    "status": "seo"
+  }
+]

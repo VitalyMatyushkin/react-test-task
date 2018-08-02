@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .sorted-tables {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+  }
+
+  .unsorted-table {
+    margin-right: 10%;
+  }
+
+  .loading {
+    font-size: 25px;
+    color: #00008B;
+  }
+}
